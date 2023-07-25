@@ -1,0 +1,2 @@
+# trackerlist
+trackerlist for bitcomet
